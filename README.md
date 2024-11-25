@@ -1,16 +1,30 @@
-## Hi there 👋
+# Kate Davydova
+## Future AI Security Analyst | Currently Building Foundation
 
-<!--
-**katedavy/katedavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vision & Goals
+- 🎯 Becoming an AI Security Analyst
+- 🔒 Specializing in ML Model Security
+- 🚀 Building AI System Protection Expertise
 
-Here are some ideas to get you started:
+### Current Focus
+- CompTIA Security+ Certification
+- Python Programming Foundations
+- Machine Learning Basics
+- Security Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Path 2024
+- Network & Application Security
+- AI/ML Core Concepts
+- Security Operations
+- Project Portfolio Development
+
+### Skills in Progress
+- Python
+- Security fundamentals
+- AI/ML foundations
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/eka-dav/)
+- [Email](mailto:kate.davy.tech@gmail.com)
+
+_"Building tomorrow's AI security, one step at a time"_
